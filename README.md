@@ -1,4 +1,4 @@
-## Hola !, I'm [Mohit Koley!](https://github.com/Mohitkoley) 👋
+## Hola , I'm [Mohit Koley !](https://github.com/Mohitkoley) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitkoley&label=Views&color=blueviolet&style=flat" alt="Mohitkoley" /> </p>
 
@@ -12,7 +12,7 @@ _ _ _
 💬 Ask me about flutter.  
 😃 Pronounce he/his.  
 ⚡ Fun fact : I listen songs when I am not coding.  
-🎂 22/11/2000  
+🎂 **22/11/2000**  
 
 
 
@@ -39,8 +39,11 @@ _ _ _ _
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohitKoley) 
 
+
+
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+
 
 
 

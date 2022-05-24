@@ -1,7 +1,7 @@
 # 💫About Me :
 🌱 Currently learning flutter and big data analysis.
 👯‍♂️ I'm looking to collbrate with gdsc.
-🤔 I'm looking help with flutter.
+🤔 I'm looking help for flutter learning by any flutter Expert Developer.
 💬 Ask me about flutter.
 😃 Pronounce he/his.
 ⚡ Fun fact : I listen songs when I am not coding.

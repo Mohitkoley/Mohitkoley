@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 _ _ _ _
-[![](https://visitcount.itsvg.in/api?id=Mohitkoley&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohitkoley&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
   ## 💰You can help me by Donating

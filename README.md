@@ -12,6 +12,7 @@ _ _ _
 💬 Ask me about flutter.  
 😃 Pronounce he/his.  
 ⚡ Fun fact : I listen songs when I am not coding.  
+🎂 22/11/2000  
 
 
 

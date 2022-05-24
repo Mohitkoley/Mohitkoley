@@ -39,6 +39,7 @@ _ _ _ _
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohitKoley) 
 
+![Naruto v/s Sasuke](https://user-images.githubusercontent.com/59443901/170041560-4923a9c8-e7ac-42a9-b3ca-89b799b0bd47.gif)
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,12 @@
-## Hola , I'm  **[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley)** 👋
-
+<!--- ## Hola , I'm  **[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) 👋** -->
+<p align="center">
+<h1>Hola , I'm  <a markdown=1><br>  
+  
+  \
+[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley)
+  
+</a> 👋</h1>
+</p>  
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitkoley&label=Views&color=blueviolet&style=flat" alt="Mohitkoley" /> </p> -->
 
 _ _ _

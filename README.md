@@ -1,9 +1,9 @@
-## Hola , I'm [Mohit Koley !](https://github.com/Mohitkoley) 👋
+## Hola , I'm  **[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley)** 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitkoley&label=Views&color=blueviolet&style=flat" alt="Mohitkoley" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitkoley&label=Views&color=blueviolet&style=flat" alt="Mohitkoley" /> </p> -->
 
 _ _ _
-![](https://img.shields.io/static/v1?label=&message=Also%20Known%20as%20Rockey&color=blue)
+![](https://img.shields.io/static/v1?label=&message=Also%20Known%20as%20Rockey%20!&color=blue)
 
 # 💫About Me :
 🌱 Currently learning flutter and big data analysis.  
@@ -39,7 +39,7 @@ _ _ _ _
   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohitKoley) 
 
-![Naruto v/s Sasuke](https://user-images.githubusercontent.com/59443901/170041560-4923a9c8-e7ac-42a9-b3ca-89b799b0bd47.gif)
+![Naruto](https://user-images.githubusercontent.com/59443901/170064798-f762c949-a339-4506-997b-9d22f0fa4c49.gif)
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

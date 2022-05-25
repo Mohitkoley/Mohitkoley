@@ -1,4 +1,8 @@
 <!--- ## Hola , I'm  **[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) 👋** -->
+<html>
+  <head> 
+  <link rel ="stylesheet" type="text/css" href="main.css">
+  </head>
 <p align="center">
 <h1>Hola , I'm  <a markdown=1><br>  
   
@@ -7,6 +11,7 @@
   
 </a> 👋</h1>
 </p>  
+</html>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitkoley&label=Views&color=blueviolet&style=flat" alt="Mohitkoley" /> </p> -->
 
 _ _ _

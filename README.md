@@ -1,10 +1,10 @@
 <!--- ## Hola , I'm  **[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) 👋** -->
 <html>
   <head> 
-    <style>
-     @import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
-    </style>
   <link rel ="stylesheet" type="text/css" href="main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap" rel="stylesheet">
   </head>
 <p align="center">
 <h1>Hola , I'm  <a markdown=1><br>  

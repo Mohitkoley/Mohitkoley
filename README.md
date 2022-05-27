@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/59443901/170211366-92965ad6-a8b4-4e86-bbe5-c09b3aceef04.gif" width="1000" height="350"/></p> -->
 
-[![Name](https://user-images.githubusercontent.com/59443901/170635861-1720423b-9580-4127-9b9f-5592c3cc4ca7.jpeg)](https://github.com/Mohitkoley/Mohitkoley/)
+[![Name](https://user-images.githubusercontent.com/59443901/170635861-1720423b-9580-4127-9b9f-5592c3cc4ca7.jpeg)](https://github.com/Mohitkoley/Mohitkoley)
 
 <!-- [![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) -->
   
@@ -16,13 +16,13 @@ _ _ _
 ![](https://img.shields.io/static/v1?label=&message=Also%20Known%20as%20Rockey%20!&color=blue "Mohit koley")
 
 # 💫About Me :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=480&lines=%F0%9F%8C%B1+Currently+learning+flutter+and+big+data.)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=430&lines=%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F+I'm+looking+to+collbrate+with+GDSC.)](https://git.io/typing-svg)    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=775&height=100&lines=%F0%9F%A4%94+I'm+looking+help+for+flutter+learning+by+any+flutter+Expert+Developer.)](https://git.io/typing-svg)    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=450&lines=%F0%9F%92%AC+Ask+me+about+flutter.)](https://git.io/typing-svg)    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=450&lines=%F0%9F%98%83+Pronounce+he%2Fhis.)](https://git.io/typing-svg)    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=620&height=70&lines=%E2%9A%A1+Fun+fact+%3A+I+listen+songs+when+I+am+not+coding.)](https://git.io/typing-svg)    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=200&height=35&lines=%F0%9F%8E%82+22%2F11%2F2000+)](https://git.io/typing-svg)   
+[![learning](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=480&lines=%F0%9F%8C%B1+Currently+learning+flutter+and+big+data.)](https://git.io/typing-svg)  
+[![collaborate](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=430&lines=%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F+I'm+looking+to+collaborate+with+GDSC.)](https://git.io/typing-svg)    
+[![help](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=850&height=70&lines=%F0%9F%A4%94+I'm+looking+help+for+flutter+learning+by+any+flutter+Expert+Developer.)](https://git.io/typing-svg)    
+[![Ask me](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=280&height=35&lines=%F0%9F%92%AC+Ask+me+about+flutter.)](https://git.io/typing-svg)    
+[![Pronounce](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=230&height=35&lines=%F0%9F%98%83+Pronounce+he%2Fhis.)](https://git.io/typing-svg)    
+[![interest](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=620&height=70&lines=%E2%9A%A1+Fun+fact+%3A+I+listen+songs+when+I+am+not+coding.)](https://git.io/typing-svg)    
+[![birthday](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=200&height=35&lines=%F0%9F%8E%82+22%2F11%2F2000+)](https://git.io/typing-svg)   
 
 
 
@@ -66,7 +66,7 @@ _ _ _
 
 _ _ _ _
 
-[![](https://visitcount.itsvg.in/api?id=Mohitkoley&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)  
+[![](https://komarev.com/ghpvc/?username=Mohitkoley&label=👁+VIEWS&color=blueviolet&style=flat-square)](https://github.com/Mohitkoley)    
 <!-- ![GitHub forks](https://img.shields.io/github/forks/Mohitkoley/python?style=social)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/Mohitkoley/python?style=social) -->
 

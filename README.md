@@ -1,40 +1,33 @@
 <!--- ## Hola , I'm  **[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) 👋** -->
 <!-- ![flutter](https://user-images.githubusercontent.com/59443901/170211366-92965ad6-a8b4-4e86-bbe5-c09b3aceef04.gif) -->  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/59443901/170211366-92965ad6-a8b4-4e86-bbe5-c09b3aceef04.gif" width="1000" height="350"/></p>
-<html>
-  <head> 
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/59443901/170211366-92965ad6-a8b4-4e86-bbe5-c09b3aceef04.gif" width="1000" height="350"/></p> -->
+
+![Name](https://user-images.githubusercontent.com/59443901/170635861-1720423b-9580-4127-9b9f-5592c3cc4ca7.jpeg)
+
+<!-- [![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) -->
   
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap" rel="stylesheet">
-  </head>
-<h1 style="color:blue;text-align:center;font-family: 'Grape Nuts', cursive;">Hola , I'm  <a markdown=1><br>  
-  
-  \
-[![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley)
-  
-</a> 👋</h1>
+
  
-</html>
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohitkoley&label=Views&color=blueviolet&style=flat" alt="Mohitkoley" /> </p> -->
 
 _ _ _
 ![](https://img.shields.io/static/v1?label=&message=Also%20Known%20as%20Rockey%20!&color=blue "Mohit koley")
 
 # 💫About Me :
-🌱 Currently learning flutter and big data analysis.  
-👯‍♂️ I'm looking to collbrate with gdsc.  
-🤔 I'm looking help for flutter learning by any flutter Expert Developer.  
-💬 Ask me about flutter.  
-😃 Pronounce he/his.  
-⚡ Fun fact : I listen songs when I am not coding.  
-🎂 **22/11/2000**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=480&lines=%F0%9F%8C%B1+Currently+learning+flutter+and+big+data.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=430&lines=%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F+I'm+looking+to+collbrate+with+GDSC.)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=775&height=100&lines=%F0%9F%A4%94+I'm+looking+help+for+flutter+learning+by+any+flutter+Expert+Developer.)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=450&lines=%F0%9F%92%AC+Ask+me+about+flutter.)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=450&lines=%F0%9F%98%83+Pronounce+he%2Fhis.)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=620&height=70&lines=%E2%9A%A1+Fun+fact+%3A+I+listen+songs+when+I+am+not+coding.)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=200&height=35&lines=%F0%9F%8E%82+22%2F11%2F2000+)](https://git.io/typing-svg)   
 
 
 
->> ❌ Work offline  
->> ✅  Work Online
+#### ❌ Work offline  
+#### ✅  Work Online
 
 
 
@@ -77,6 +70,7 @@ _ _ _ _
 <!-- ![GitHub forks](https://img.shields.io/github/forks/Mohitkoley/python?style=social)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/Mohitkoley/python?style=social) -->
 
+_ _ _
 
 ## 💰You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohitKoley) 

@@ -3,7 +3,7 @@
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/59443901/170211366-92965ad6-a8b4-4e86-bbe5-c09b3aceef04.gif" width="1000" height="350"/></p> -->
 
-[![Name](https://user-images.githubusercontent.com/59443901/170635861-1720423b-9580-4127-9b9f-5592c3cc4ca7.jpeg)](https://github.com/Mohitkoley/Mohitkoley)
+[![Name](https://user-images.githubusercontent.com/59443901/170635861-1720423b-9580-4127-9b9f-5592c3cc4ca7.jpeg)](https://github.com/Mohitkoley)
 
 <!-- [![Mohit](https://img.shields.io/badge/Mohit-Koley-blue?style=for-the-badge)](https://github.com/Mohitkoley) -->
   

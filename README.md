@@ -27,8 +27,7 @@ _ _ _
 
 
 
-#### ❌ Work offline  
-#### ✅  Work Online
+
 
 
 

@@ -17,13 +17,13 @@ _ _ _
 [![@mohitkoley's Holopin board](https://holopin.io/api/user/board?user=mohitkoley)](https://holopin.io/@mohitkoley)
 
 # 💫About Me :
-[![learning](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=0DC1D1&background=0c6d75&width=480&lines=%F0%9F%8C%B1+Currently+learning+flutter+and+big+data.)](https://git.io/typing-svg)  
-[![collaborate](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=430&lines=%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F+I'm+looking+to+collaborate+with+GDSC.)](https://git.io/typing-svg)    
-[![help](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=850&height=70&lines=%F0%9F%A4%94+I'm+looking+help+for+flutter+learning+by+any+flutter+Expert+Developer.)](https://git.io/typing-svg)    
-[![Ask me](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=280&height=35&lines=%F0%9F%92%AC+Ask+me+about+flutter.)](https://git.io/typing-svg)    
-[![Pronounce](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&width=280&height=35&lines=%F0%9F%98%83+Pronounce+he%2Fhis.)](https://git.io/typing-svg)    
-[![interest](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=AF47E9&background=27213E&center=true&width=620&height=70&lines=%E2%9A%A1+Fun+fact+%3A+I+listen+songs+when+I+am+not+coding.)](https://git.io/typing-svg)    
-[![birthday](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=AF47E9&background=27213E&width=200&height=35&lines=%F0%9F%8E%82+22%2F11%2F2000+)](https://git.io/typing-svg)   
+[![learning](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=0DC1D1&background=0C6D75&width=480&lines=%F0%9F%8C%B1+Currently+learning+flutter+and+springboot.)](https://git.io/typing-svg)  
+[![collaborate](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=0DC1D1&background=0C6D75&width=430&lines=%F0%9F%91%AF%E2%80%8D%E2%99%82%EF%B8%8F+I'm+looking+to+collaborate+with+GDSC.)](https://git.io/typing-svg)    
+[![help](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=0DC1D1&background=0C6D75&width=850&height=70&lines=%F0%9F%A4%94+I'm+looking+help+for+flutter+learning+by+any+flutter+Expert+Developer.)](https://git.io/typing-svg)    
+[![Ask me](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=0DC1D1&background=0C6D75&width=280&height=35&lines=%F0%9F%92%AC+Ask+me+about+flutter.)](https://git.io/typing-svg)    
+[![Pronounce](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=0DC1D1&background=0C6D75&width=280&height=35&lines=%F0%9F%98%83+Pronounce+he%2Fhis.)](https://git.io/typing-svg)    
+[![interest](https://readme-typing-svg.herokuapp.com?font=poppins&size=22&duration=4500&color=0DC1D1&background=0C6D75&center=true&width=620&height=70&lines=%E2%9A%A1+Fun+fact+%3A+I+listen+songs+when+I+am+not+coding.)](https://git.io/typing-svg)    
+[![birthday](https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&color=0DC1D1&background=0C6D75&width=200&height=35&lines=%F0%9F%8E%82+22%2F11%2F2000+)](https://git.io/typing-svg)   
 
 
 
